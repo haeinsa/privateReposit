@@ -2,16 +2,33 @@
 #define WINDOW_WIDTH 700
 #define WINDOW_HEIGHT 700
 
-double time = 0, keyPressCnt = 0;
+double time = 0;
+double aPressCnt = 0, sPressCnt = 0, dPressCnt = 0;
+
 #pragma region Cam Setting
 float camX = 0, camY = 2, camZ = 20;
 float camXdest = 0, camYdest = 0, camZdest;
 float camUpx = 0, camUpy = 1, camUpz = 0;
 #pragma endregion
-#pragma region WordsBaseOffset
-int Joffest = -4;
-int Soffset = -1;
-int Moffset = 3.5;
+
+#pragma region Words Base Offset
+float Joffest = -4;
+float Soffset = -1;
+float Moffset = 3.5;
+#pragma endregion
+
+#pragma region Manipulation values
+float JoffestDegree[3] = { 0,0,0 };
+float JrotateAxis = 2, JrotateDegree = 0;
+float Jsize = 0;
+
+float SoffestDegree[3] = { 0,0,0 };
+float SrotateAxis = 2, SrotateDegree = 0;
+float Ssize = 0;
+
+float MoffestDegree[3] = { 0,0,0 };
+float MrotateAxis = 2, MrotateDegree = 0;
+float Msize = 0;
 #pragma endregion
 
 
@@ -164,6 +181,4 @@ int main(int argc, char** argv) {
 	glutDisplayFunc(Display);
 	glutReshapeFunc(Reshape);	
 	glutMainLoop();
-	
-
 }
