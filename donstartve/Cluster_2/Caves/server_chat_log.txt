@@ -1,0 +1,10 @@
+[00:01:23]: [Join Announcement] haeinsa
+[00:01:52]: [Join Announcement] 홍금보
+[00:52:40]: [Skin Announcement] haeinsa legs_warly_victorian
+[01:38:05]: [Leave Announcement] 홍금보
+[01:39:05]: [Join Announcement] 홍금보
+[01:52:08]: [Skin Announcement] 홍금보 legs_wormwood_mushroom
+[02:14:45]: [Say] (KU_Yo_C6ncn) haeinsa: dico bang
+[02:14:47]: [Say] (KU_Yo_C6ncn) haeinsa: change
+[02:37:56]: [Skin Announcement] haeinsa mysterybox_ice_4
+[02:43:11]: [Leave Announcement] haeinsa

@@ -1,0 +1,7 @@
+[00:01:11]: [Join Announcement] haeinsa
+[00:01:21]: [Join Announcement] 홍금보
+[00:16:00]: [Skin Announcement] haeinsa mysterybox_ice_4
+[00:16:09]: [Skin Announcement] 홍금보 webber_beard_ice
+[00:54:25]: [Death Announcement] haeinsa was killed by Fire. She became a spooky ghost!
+[00:54:29]: [Leave Announcement] haeinsa
+[00:54:30]: [Leave Announcement] 홍금보

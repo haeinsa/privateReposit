@@ -1,0 +1,10 @@
+[00:01:09]: [Join Announcement] haeinsa
+[00:02:51]: [Join Announcement] 홍금보
+[00:30:58]: [Death Announcement] 홍금보 was killed by Catcoon. She became a spooky ghost!
+[00:33:37]: [Resurrect Announcement] 홍금보 was resurrected by Touch Stone.
+[00:49:46]: [Death Announcement] haeinsa was killed by Pig Man. She became a spooky ghost!
+[00:49:56]: [Resurrect Announcement] haeinsa was resurrected by Fire Pit.
+[00:59:06]: [Death Announcement] haeinsa was killed by Pig Man. She became a spooky ghost!
+[00:59:08]: [Resurrect Announcement] haeinsa was resurrected by Fire Pit.
+[01:03:41]: [Leave Announcement] haeinsa
+[01:03:41]: [Leave Announcement] 홍금보
